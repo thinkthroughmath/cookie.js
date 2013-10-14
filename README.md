@@ -1,3 +1,7 @@
+## TTM NOTE
+
+Carol forked this repo because js-coder/cookie.js only has a gh-pages branch and bower expects there to be a master branch. We use this in the lesson player and wanted to install it through bower, so Carol just forked the repo and made a master branch that's the same as the gh-pages branch.
+
 #  cookie.js–simplifying cookies in JavaScript [![Build Status](https://travis-ci.org/js-coder/cookie.js.png?branch=master)](https://travis-ci.org/js-coder/cookie.js)
 
 cookie.js is a tiny JavaScript library that simplifies cookies. It is capable of setting, getting and removing cookies, accepts a variety of parameters, and supports chaining. cookie.js is released under the [MIT/X11 license](https://github.com/js-coder/cookie.js/blob/master/license). It doesn't have any dependencies and minified and gzipped it's only 0.9 KB small.
